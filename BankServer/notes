@@ -1,0 +1,42 @@
+                                    server creation-express
+                        
+                        1. create server folder
+                        
+                        2. install package.json  -  npm init
+
+                        3. create index.json
+
+                        4. install express  -  npm i express
+
+                        5. import express in index.js
+
+                        6. create app using express
+
+                        7. set port
+                        
+                        8. run server  -  node index.js
+
+                        9. define router  :  -expressApp.HTTPmethod(path,call back function)  
+
+                        10. RUN SERVER - nodemon index.js
+
+                        11. install & import session : npm i express-session
+
+                        12.Middlewares - 
+
+                            12.1 Application specific middleware
+
+                            12.2 router specific middleware
+
+                        13. JSON Web token - npm i jsonwebtoken ---used for authentication
+
+                            13.1 token generation
+
+                            13.2 token validation
+
+                        14.MongoDB connection: 
+
+                           14.1 install mangoose: sy: npm i mangoose
+
+                        15. solving asynchronus events - promise
+
